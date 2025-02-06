@@ -3,50 +3,62 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm EJ ARNADO</h1>
-<h3 align="center">A passionate web developer specializing in creating interactive and visually stunning websites. I have a knack for turning ideas into functional and aesthetic source codes.</h3>
-<h3 align="center">Get to know more about me below!</h3>
+<h3 align="center">A passionate Web Developer with a love for creating interactive and visually stunning websites. I excel at transforming ideas into functional and aesthetically pleasing web applications.</h3>
+<h3 align="center">Feel free to explore my journey below!</h3>
 
 <br><br>
 
-<h3>What I do</h3>
+### 🚀 What I Do
 
-- 👨‍💻 Software Intern at [iReply](https://www.linkedin.com/company/ireplyservices/posts/?feedView=all)
+- 👨‍💻 **Software Lead Intern** at [iReply](https://www.linkedin.com/company/ireplyservices/posts/?feedView=all)
 
-- 💻 I also do Frontend but I'm still learning how to be proficient with it
-  
-- 📝 I’m currently taking "Bachelor of Science in Information Technology" at [University of St. La Salle](https://www.usls.edu.ph/)
+- 💻 **Frontend Developer** – Currently sharpening my skills in building dynamic and responsive web interfaces.
+
+- 📝 **Student** – Pursuing a Bachelor of Science in Information Technology at [University of St. La Salle](https://www.usls.edu.ph/)
 
 <br>
 
-### Skills
+### 💼 My Skills
 [![Skills](https://skillicons.dev/icons?i=androidstudio,cpp,css,dart,figma,flutter,html,java,js,mysql,php,sqlite)](https://skillicons.dev)
 
 <br>
 
-### Studying
+### 📚 What I'm Learning
 [![Studying](https://skillicons.dev/icons?i=firebase,laravel)](https://skillicons.dev)
 
 <br>
 
-<h3>Experiences</h3>
+### 🏆 Experiences
 
-- 💰 Head Commissioners of University Relations |  Information Technology Society (ITS) USLS  |  2024 - 2025
+- 💼 **Head Commissioner of University Relations** at **Information Technology Society (ITS)**, USLS | *2024 - 2025*  
+  - Coordinating and relaying important announcements across different batch representatives to ensure smooth communication.
 
-    - Relay announcements to other batch representatives.
 <br>
 
+### 🎓 Education
 
-<h3>Education</h3>
+- **Bachelor of Science in Information Technology** | University of St. La Salle | *2021 - 2025*  
+- **Senior High School (STEM)** | Liceo de La Salle USLS | *2019 - 2021*  
+- **High School** | Negros Occidental High School | *2015 - 2019*
 
-- Higher Education - University of St. La Salle | BSIT | 2021 - 2025
-
-- Upper Secondary Education - Liceo de La Salle USLS | STEM | 2019 - 2021
-
-- Lower Secondary Education - Negros Occidental High School | 2015 - 2019
 <br>
 
-<h3>Github Stats</h3>
+### 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ejarnad0&show_icons=true&locale=en&layout=compact" alt="ejarnad0" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ejarnad0&show_icons=true&locale=en&layout=compact" alt="Top Languages">
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ejarnad0&show_icons=true&locale=en" alt="ejarnad0" /></p>
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ejarnad0&show_icons=true&locale=en" alt="EJ's GitHub Stats">
+</p>
+
+<br>
+
+---
+
+<h3 align="center">Let's Connect! 🌐</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ejarnad0/" target="_blank">LinkedIn</a> • 
+  <a href="https://github.com/ejarnad0" target="_blank">GitHub</a> • 
+</p>
