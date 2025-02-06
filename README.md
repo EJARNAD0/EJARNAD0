@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tenor.com/search/programmer-gifs" alt="MasterHead">
+  <img src="https://media.tenor.com/Yzeh4Z4UQuAAAAAM/viciadoemcodar.gif" alt="MasterHead">
 </p>
 
 <h1 align="center">Hi 👋, I'm EJ ARNADO</h1>
