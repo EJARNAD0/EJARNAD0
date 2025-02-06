@@ -32,19 +32,17 @@
 
 ## 🛠 Languages and Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,svelte,astro,jquery,bootstrap,tailwind,scss" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind,scss" />
   <br />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,java,cpp,c,rust,go,swift,kotlin,dart,flutter" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,cpp,dart,flutter" />
   <br />
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,firebase,redis,supabase" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" />
   <br />
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,docker,kubernetes,linux,windows" />
   <br />
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=figma" />
   <br />
-  <img src="https://skillicons.dev/icons?i=figma,xd,sketch,photoshop,illustrator" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=vscode,sublime,androidstudio" />
 </p>
 
 ---
