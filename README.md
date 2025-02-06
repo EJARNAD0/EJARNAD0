@@ -10,7 +10,7 @@
 
 <h3>What I do</h3>
 
-- 👨‍💻 Backend Developer at [Ibento Creatives](https://www.facebook.com/p/IBento-Creatives-61557638287578/)
+- 👨‍💻 Software Intern at [iReply](https://www.linkedin.com/company/ireplyservices/posts/?feedView=all)
 
 - 💻 I also do Frontend but I'm still learning how to be proficient with it
   
