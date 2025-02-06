@@ -47,9 +47,6 @@
 
 <h3>Github Stats</h3>
 
-<a href="https://github.com/rjseebs02/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rjseebs02&theme=vue-dark&show_icons=true&locale=en" alt="rjseebs02" />
-</a>
-<a href="https://github.com/rjseebs02/rjseebs02.github.io">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rjseebs02&theme=vue-dark" alt="rjseebs02" />
-</a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ejarnad0&show_icons=true&locale=en&layout=compact" alt="ejarnad0" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ejarnad0&show_icons=true&locale=en" alt="ejarnad0" /></p>
