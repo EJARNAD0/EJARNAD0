@@ -16,6 +16,10 @@
 
 - 📝 **Student** – Pursuing a Bachelor of Science in Information Technology at [University of St. La Salle](https://www.usls.edu.ph/)
 
+- 🌱 I’m currently learning **Firebase and Laravel**
+
+- 👨‍💻 All of my projects are available at [https://ejarnado.helioho.st/](https://ejarnado.helioho.st/)
+
 <br>
 
 ### 💼 My Skills
@@ -61,4 +65,5 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ejarnad0/" target="_blank">LinkedIn</a> • 
   <a href="https://github.com/ejarnad0" target="_blank">GitHub</a> • 
+  <a href="mailto:ejarnad0@example.com">Email</a>
 </p>
