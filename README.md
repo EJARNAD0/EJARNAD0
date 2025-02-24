@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Firebase and Laravel**  
 
-- 👨‍💻 All of my projects are available at **[https://ejarnado.vercel.app/)**  
+- 👨‍💻 All of my projects are available at **https://ejarnado.vercel.app/**  
 
 - 📫 How to reach me **arnadoej@gmail.com**  
 
